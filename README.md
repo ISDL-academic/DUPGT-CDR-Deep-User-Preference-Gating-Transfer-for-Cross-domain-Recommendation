@@ -1,5 +1,5 @@
-# DUPGT-CDR: Deep User Preference Gating Transfer for Cross-domain Recommendation
-DUPGT-CDR(Deep User Preference Gating Transfer for Cross-domain Recommendation)の実装リポジトリです。
+# 深層ゲーティングによるユーザ嗜好転移を用いたクロスドメイン推薦
+深層ゲーティングによるユーザ嗜好転移を用いたクロスドメイン推薦の実装リポジトリです。
 
 ## Results
 
